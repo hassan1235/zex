@@ -1,0 +1,8 @@
+# Don't listing directory
+Options -Indexes
+ErrorDocument 403 http://www.your-website-home-page.com/
+# Follow symbolic links
+Options +FollowSymLinks
+
+# Default handler
+DirectoryIndex index.php

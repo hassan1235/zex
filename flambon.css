@@ -1,0 +1,61 @@
+/*theme by flambon*/
+/*simple v2.7 css - type 1*/
+/*date: 19 feb 2013*/
+/*http://flambons.com*/
+
+body {background:#efe7f7;margin:0;padding:0 5px;color:#555}
+#header {border-bottom:10px solid #8cb629;margin:0 -5px;padding:0 0 10px 0;background:#000;color:#ddd}
+.heading {margin:0;padding:10px 5px 5px 5px;font-size:small}
+.description {margin:0;padding:5px;font-size:small}
+#navigation {display:none}
+#top-content {margin:0;padding:7px 0;text-align:center;background:#efe7f7}
+a {color:#8caa3a;text-decoration:none}
+.post,.post-single {margin:-1px 0;padding:0;border:1px solid #bbb;background:#fff}
+.post-meta {margin:0;padding:5px;color:#9cba4a}
+.post .post-meta .title {margin:0;padding:2px 0;font-size:small;}
+.categories {margin:0;padding:2px 0;font-size:small;border-bottom:1px dotted #bbb}
+.post-single .post-meta .title {margin:0;padding:2px 0}
+.comment-header .title a,#bottom-content a,.post-meta2 a,.post-meta a,.post-meta .title {color:#111}
+.post-content {margin:0;padding:9px 5px}
+.post-meta2 {text-align:right;margin:0;padding:5px;}
+.thumbnail{ border:1px solid #888 !important; margin:2px 3px 0 0 !important; width:50px !important; height:60px !important; padding:1px !important}
+#pagination-links {margin:5px 0;padding:2px 4px 4px 4px;text-align:center;background:#fff;border:1px solid #bbb}
+#pagination-links span {padding:5px;display:inline-block;background:#bbb;}
+#pagination-links a {padding:5px;background:#8cb628;color:#ffe;display:inline-block;margin-top:2px;text-decoration:none;}
+#pagination-links a:hover {text-decoration: none;}
+#bottom-content {background:#fff;margin:0;padding:0;border:1px solid #bbb}
+#recent-posts-list h4,h3 {background:#8cb231;margin:0;padding:7px;color:#eee;text-shadow:#111 1px 1px 1px;width:50%}
+h3 a {color:#eee !important;text-shadow:#111 1px 1px 1px }
+#navigation-menu,#blogroll,#category-bottom {margin:7px;padding:0}
+ul {border-left:6px solid #8cb230;border-bottom:6px solid #8cb230;background:#eee;margin:0;padding:0}
+#category-bottom li,#blogroll li,#navigation-menu li {list-style:none;margin:0;padding:5px;border-top:1px solid #fffeff;border-bottom:1px solid #ccc}
+#blogroll li {list-style: url(/files/simple_v2-7/aa422.png) inside !important}
+#blogroll li,#category-bottom li {padding:3px !important}
+#category-bottom li {list-style: url(/files/simple_v2-7/aa42.png) inside !important}
+#footer {margin:7px -5px 0 -5px;padding:5px;text-align:center;background:#292829;border-top:6px solid #8cb631;color:#ddd}
+.comment-header .title,#footer h6 {margin:0;padding:0}
+ol {margin:0 0 -1px 0;padding:0}
+#blogroll_list li,#recent-posts-list li,.post-content li {list-style: url(/files/simple_v2-7/aa42.png) inside;margin:0;padding:3px;border-bottom:1px solid #cdcdcd}
+#share-buttons {margin:0;padding:3px;text-align:left}
+#share-buttons a {display:inline-table;width:5%}
+#comments {margin:7px 0;padding:0;background:#fff;border:1px solid #bbb}
+.comment {background:#eee;margin:0 5px;padding:0;border-top:1px solid #ccc;border-bottom:1px solid #fffeff}
+.comment-header {margin:0;padding:3px;color:#8caa3a}
+.comment-content {margin:0;padding:5px 3px}
+#comments h4,#comments h5 {margin:1px;padding:2px}
+#comment_form{text-align:left;margin:1px;padding:3px}
+#comment_form textarea{width:80%;margin:2px 0;padding:20px 0}
+#comment_form input[type=text],.mobile_body
+#comment_form select{width:50%;margin:2px 0;padding:5px}
+#comment_form [type=submit] {margin:2px 0;padding:5px}
+body img {max-width:80%;max-height:80%}
+.post-single .post-content textarea {width:70px;height:70px;padding:0;margin:0}
+.post-content,.comment-content {word-wrap:break-word}
+#footer h6:before {content:"fmb_" !important;display:inline !important}
+#footer:after {content:"" !important;margin:1px;padding:1px;display:block !important;font-size:small !important}
+#comments li {margin:2px;padding:5px;list-style:none;text-align:center}
+.highlight {margin:0;padding:6px;text-align:center}
+.messages {margin:4px -2px 0 -2px;padding:3px;text-align:center}
+#search-form [type=text] { width:65%;background:#fff;margin:1px;padding:4px;color:#333;border:1px solid #bbb}
+#search-form [type=submit] {;width:25%;margin:1px;padding:4px;border:1px solid #690;color:#ffe;background:#8cb629}
+.post-meta2 {display:none}
