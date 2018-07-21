@@ -72,7 +72,7 @@ if ($showlogin) {
 
 <title>Enter Password To Login Our Bot</title>
 
- <link rel="stylesheet" type="text/css" href="http://naantoken.cf/marwat/style_2.css">
+ <link rel="stylesheet" type="text/css" href="/style_2.css">
 
 <link href="cssasd.css" rel="stylesheet" type="text/css"  media="all"  />
 
