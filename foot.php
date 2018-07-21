@@ -8,9 +8,9 @@
 
 <meta http-equiv="Content-Style-Type" content="text/css" "yes" />
 
-<link rel="stylesheet" href="http://naantoken.cf/marwat/style.css" type="text/css" />
+<link rel="stylesheet" href="/style.css" type="text/css" />
 
-<link rel="stylesheet" href="http://naantoken.cf/marwat/style0.css" media="all,handheld"/>
+<link rel="stylesheet" href="/style0.css" media="all,handheld"/>
 
 <link rel="shortcut icon" href="" />
 
