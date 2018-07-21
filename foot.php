@@ -6,7 +6,7 @@
 
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8"/>
 
-<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Style-Type" content="text/css" "yes" />
 
 <link rel="stylesheet" href="http://naantoken.cf/marwat/style.css" type="text/css" />
 
